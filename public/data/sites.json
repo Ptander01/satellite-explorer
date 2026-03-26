@@ -1,0 +1,776 @@
+{
+  "sites": [
+    {
+      "id": "site_001",
+      "name": "Apex Cloud Ashburn Campus",
+      "project": "Phase 2 Expansion",
+      "company": "Apex Cloud Solutions",
+      "location": {
+        "lat": 39.0438,
+        "lng": -77.4874
+      },
+      "address": "1744 Cloud Dr, Ashburn, VA",
+      "cadence": "monthly",
+      "status": "under_construction",
+      "esri_layer_id": null,
+      "snapshots": [
+        {
+          "date": "2024-06-01",
+          "metrics": {
+            "estimated_mw": 0,
+            "building_sqft": 0,
+            "cooling_towers": 0,
+            "generators": 1,
+            "percent_complete": 0
+          },
+          "changes": []
+        },
+        {
+          "date": "2024-07-01",
+          "metrics": {
+            "estimated_mw": 19,
+            "building_sqft": 28727,
+            "cooling_towers": 0,
+            "generators": 0,
+            "percent_complete": 9
+          },
+          "changes": []
+        },
+        {
+          "date": "2024-07-31",
+          "metrics": {
+            "estimated_mw": 10,
+            "building_sqft": 22920,
+            "cooling_towers": 0,
+            "generators": 1,
+            "percent_complete": 18
+          },
+          "changes": [
+            "Landscaping and grading activity",
+            "Electrical substation expansion"
+          ]
+        },
+        {
+          "date": "2024-08-30",
+          "metrics": {
+            "estimated_mw": 64,
+            "building_sqft": 112858,
+            "cooling_towers": 0,
+            "generators": 2,
+            "percent_complete": 27
+          },
+          "changes": [
+            "Parking lot grading completed",
+            "Mechanical equipment staging area expanded",
+            "Electrical substation expansion"
+          ]
+        },
+        {
+          "date": "2024-09-29",
+          "metrics": {
+            "estimated_mw": 30,
+            "building_sqft": 54287,
+            "cooling_towers": 2,
+            "generators": 2,
+            "percent_complete": 36
+          },
+          "changes": [
+            "Parking lot grading completed",
+            "Mechanical equipment staging area expanded"
+          ]
+        },
+        {
+          "date": "2024-10-29",
+          "metrics": {
+            "estimated_mw": 109,
+            "building_sqft": 183942,
+            "cooling_towers": 2,
+            "generators": 3,
+            "percent_complete": 45
+          },
+          "changes": [
+            "Roofing completed on Building A",
+            "Perimeter fencing installed"
+          ]
+        },
+        {
+          "date": "2024-11-28",
+          "metrics": {
+            "estimated_mw": 33,
+            "building_sqft": 84114,
+            "cooling_towers": 3,
+            "generators": 2,
+            "percent_complete": 54
+          },
+          "changes": []
+        },
+        {
+          "date": "2024-12-28",
+          "metrics": {
+            "estimated_mw": 142,
+            "building_sqft": 279134,
+            "cooling_towers": 2,
+            "generators": 6,
+            "percent_complete": 63
+          },
+          "changes": []
+        },
+        {
+          "date": "2025-01-27",
+          "metrics": {
+            "estimated_mw": 52,
+            "building_sqft": 278326,
+            "cooling_towers": 3,
+            "generators": 6,
+            "percent_complete": 72
+          },
+          "changes": [
+            "New transformer delivery observed"
+          ]
+        },
+        {
+          "date": "2025-02-26",
+          "metrics": {
+            "estimated_mw": 155,
+            "building_sqft": 146260,
+            "cooling_towers": 3,
+            "generators": 7,
+            "percent_complete": 81
+          },
+          "changes": [
+            "New transformer delivery observed",
+            "Parking lot grading completed"
+          ]
+        },
+        {
+          "date": "2025-03-28",
+          "metrics": {
+            "estimated_mw": 246,
+            "building_sqft": 262706,
+            "cooling_towers": 5,
+            "generators": 5,
+            "percent_complete": 90
+          },
+          "changes": [
+            "Cooling tower installation observed",
+            "Landscaping and grading activity",
+            "Perimeter fencing installed"
+          ]
+        },
+        {
+          "date": "2025-04-27",
+          "metrics": {
+            "estimated_mw": 205,
+            "building_sqft": 364172,
+            "cooling_towers": 4,
+            "generators": 7,
+            "percent_complete": 100
+          },
+          "changes": [
+            "Electrical substation expansion"
+          ]
+        }
+      ],
+      "links": {}
+    },
+    {
+      "id": "site_002",
+      "name": "NovaTech Phoenix Megacampus",
+      "project": "Desert Grid Initiative",
+      "company": "NovaTech Industries",
+      "location": {
+        "lat": 33.4353,
+        "lng": -112.3585
+      },
+      "address": "2369 Data Blvd, Goodyear, AZ",
+      "cadence": "biweekly",
+      "status": "under_construction",
+      "esri_layer_id": null,
+      "snapshots": [
+        {
+          "date": "2024-06-01",
+          "metrics": {
+            "estimated_mw": 0,
+            "building_sqft": 0,
+            "cooling_towers": 0,
+            "generators": 2,
+            "percent_complete": 0
+          },
+          "changes": []
+        },
+        {
+          "date": "2024-06-15",
+          "metrics": {
+            "estimated_mw": 13,
+            "building_sqft": 18958,
+            "cooling_towers": 0,
+            "generators": 0,
+            "percent_complete": 5
+          },
+          "changes": [
+            "New transformer delivery observed",
+            "Perimeter fencing installed",
+            "Mechanical equipment staging area expanded"
+          ]
+        },
+        {
+          "date": "2024-06-29",
+          "metrics": {
+            "estimated_mw": 15,
+            "building_sqft": 46019,
+            "cooling_towers": 0,
+            "generators": 0,
+            "percent_complete": 11
+          },
+          "changes": [
+            "Mechanical equipment staging area expanded"
+          ]
+        },
+        {
+          "date": "2024-07-13",
+          "metrics": {
+            "estimated_mw": 19,
+            "building_sqft": 69774,
+            "cooling_towers": 1,
+            "generators": 3,
+            "percent_complete": 17
+          },
+          "changes": [
+            "Electrical substation expansion",
+            "Roofing completed on Building A"
+          ]
+        },
+        {
+          "date": "2024-07-27",
+          "metrics": {
+            "estimated_mw": 26,
+            "building_sqft": 108406,
+            "cooling_towers": 0,
+            "generators": 1,
+            "percent_complete": 23
+          },
+          "changes": [
+            "New building foundation detected"
+          ]
+        },
+        {
+          "date": "2024-08-10",
+          "metrics": {
+            "estimated_mw": 49,
+            "building_sqft": 65219,
+            "cooling_towers": 2,
+            "generators": 1,
+            "percent_complete": 29
+          },
+          "changes": [
+            "Generator pad construction started",
+            "Electrical substation expansion"
+          ]
+        },
+        {
+          "date": "2024-08-24",
+          "metrics": {
+            "estimated_mw": 101,
+            "building_sqft": 44454,
+            "cooling_towers": 0,
+            "generators": 2,
+            "percent_complete": 35
+          },
+          "changes": []
+        },
+        {
+          "date": "2024-09-07",
+          "metrics": {
+            "estimated_mw": 19,
+            "building_sqft": 180432,
+            "cooling_towers": 3,
+            "generators": 3,
+            "percent_complete": 41
+          },
+          "changes": [
+            "Cooling tower installation observed",
+            "New transformer delivery observed"
+          ]
+        },
+        {
+          "date": "2024-09-21",
+          "metrics": {
+            "estimated_mw": 47,
+            "building_sqft": 224931,
+            "cooling_towers": 3,
+            "generators": 4,
+            "percent_complete": 47
+          },
+          "changes": [
+            "New building foundation detected",
+            "Mechanical equipment staging area expanded"
+          ]
+        },
+        {
+          "date": "2024-10-05",
+          "metrics": {
+            "estimated_mw": 120,
+            "building_sqft": 148915,
+            "cooling_towers": 2,
+            "generators": 3,
+            "percent_complete": 52
+          },
+          "changes": [
+            "New building foundation detected",
+            "New transformer delivery observed"
+          ]
+        },
+        {
+          "date": "2024-10-19",
+          "metrics": {
+            "estimated_mw": 107,
+            "building_sqft": 235362,
+            "cooling_towers": 3,
+            "generators": 5,
+            "percent_complete": 58
+          },
+          "changes": [
+            "Mechanical equipment staging area expanded",
+            "New transformer delivery observed"
+          ]
+        },
+        {
+          "date": "2024-11-02",
+          "metrics": {
+            "estimated_mw": 58,
+            "building_sqft": 212372,
+            "cooling_towers": 3,
+            "generators": 4,
+            "percent_complete": 64
+          },
+          "changes": [
+            "Generator pad construction started",
+            "Landscaping and grading activity",
+            "Roofing completed on Building A"
+          ]
+        },
+        {
+          "date": "2024-11-16",
+          "metrics": {
+            "estimated_mw": 161,
+            "building_sqft": 336548,
+            "cooling_towers": 2,
+            "generators": 6,
+            "percent_complete": 70
+          },
+          "changes": []
+        },
+        {
+          "date": "2024-11-30",
+          "metrics": {
+            "estimated_mw": 132,
+            "building_sqft": 148325,
+            "cooling_towers": 2,
+            "generators": 5,
+            "percent_complete": 76
+          },
+          "changes": [
+            "Generator pad construction started",
+            "Electrical substation expansion",
+            "New building foundation detected"
+          ]
+        },
+        {
+          "date": "2024-12-14",
+          "metrics": {
+            "estimated_mw": 122,
+            "building_sqft": 152041,
+            "cooling_towers": 4,
+            "generators": 5,
+            "percent_complete": 82
+          },
+          "changes": []
+        },
+        {
+          "date": "2024-12-28",
+          "metrics": {
+            "estimated_mw": 73,
+            "building_sqft": 121241,
+            "cooling_towers": 4,
+            "generators": 7,
+            "percent_complete": 88
+          },
+          "changes": []
+        },
+        {
+          "date": "2025-01-11",
+          "metrics": {
+            "estimated_mw": 189,
+            "building_sqft": 353612,
+            "cooling_towers": 3,
+            "generators": 5,
+            "percent_complete": 94
+          },
+          "changes": [
+            "Perimeter fencing installed",
+            "New building foundation detected",
+            "Cooling tower installation observed"
+          ]
+        },
+        {
+          "date": "2025-01-25",
+          "metrics": {
+            "estimated_mw": 289,
+            "building_sqft": 107105,
+            "cooling_towers": 6,
+            "generators": 5,
+            "percent_complete": 100
+          },
+          "changes": [
+            "Roofing completed on Building A"
+          ]
+        }
+      ],
+      "links": {}
+    },
+    {
+      "id": "site_003",
+      "name": "Meridian Digital Columbus",
+      "project": "Midwest Hub",
+      "company": "Meridian Digital",
+      "location": {
+        "lat": 40.0812,
+        "lng": -82.8087
+      },
+      "address": "6467 Technology Pkwy, New Albany, OH",
+      "cadence": "monthly",
+      "status": "active",
+      "esri_layer_id": null,
+      "snapshots": [
+        {
+          "date": "2024-06-01",
+          "metrics": {
+            "estimated_mw": 0,
+            "building_sqft": 0,
+            "cooling_towers": 0,
+            "generators": 0,
+            "percent_complete": 0
+          },
+          "changes": []
+        },
+        {
+          "date": "2024-07-01",
+          "metrics": {
+            "estimated_mw": 30,
+            "building_sqft": 68032,
+            "cooling_towers": 1,
+            "generators": 0,
+            "percent_complete": 14
+          },
+          "changes": [
+            "Generator pad construction started"
+          ]
+        },
+        {
+          "date": "2024-07-31",
+          "metrics": {
+            "estimated_mw": 49,
+            "building_sqft": 139520,
+            "cooling_towers": 1,
+            "generators": 1,
+            "percent_complete": 28
+          },
+          "changes": [
+            "Parking lot grading completed",
+            "Landscaping and grading activity"
+          ]
+        },
+        {
+          "date": "2024-08-30",
+          "metrics": {
+            "estimated_mw": 31,
+            "building_sqft": 95687,
+            "cooling_towers": 3,
+            "generators": 3,
+            "percent_complete": 42
+          },
+          "changes": []
+        },
+        {
+          "date": "2024-09-29",
+          "metrics": {
+            "estimated_mw": 26,
+            "building_sqft": 70306,
+            "cooling_towers": 2,
+            "generators": 2,
+            "percent_complete": 57
+          },
+          "changes": [
+            "Generator pad construction started",
+            "New building foundation detected",
+            "Roofing completed on Building A"
+          ]
+        },
+        {
+          "date": "2024-10-29",
+          "metrics": {
+            "estimated_mw": 39,
+            "building_sqft": 155379,
+            "cooling_towers": 2,
+            "generators": 5,
+            "percent_complete": 71
+          },
+          "changes": [
+            "Roofing completed on Building A",
+            "Perimeter fencing installed"
+          ]
+        },
+        {
+          "date": "2024-11-28",
+          "metrics": {
+            "estimated_mw": 216,
+            "building_sqft": 403569,
+            "cooling_towers": 3,
+            "generators": 7,
+            "percent_complete": 85
+          },
+          "changes": [
+            "Cooling tower installation observed"
+          ]
+        },
+        {
+          "date": "2024-12-28",
+          "metrics": {
+            "estimated_mw": 127,
+            "building_sqft": 153339,
+            "cooling_towers": 5,
+            "generators": 7,
+            "percent_complete": 100
+          },
+          "changes": []
+        }
+      ],
+      "links": {}
+    },
+    {
+      "id": "site_004",
+      "name": "Titan Infrastructure Dallas",
+      "project": "Lone Star Campus",
+      "company": "Titan Infrastructure",
+      "location": {
+        "lat": 32.7555,
+        "lng": -97.3308
+      },
+      "address": "8003 Data Blvd, Fort Worth, TX",
+      "cadence": "quarterly",
+      "status": "pre_development",
+      "esri_layer_id": null,
+      "snapshots": [
+        {
+          "date": "2024-06-01",
+          "metrics": {
+            "estimated_mw": 0,
+            "building_sqft": 0,
+            "cooling_towers": 1,
+            "generators": 0,
+            "percent_complete": 0
+          },
+          "changes": []
+        },
+        {
+          "date": "2024-08-30",
+          "metrics": {
+            "estimated_mw": 24,
+            "building_sqft": 81181,
+            "cooling_towers": 2,
+            "generators": 1,
+            "percent_complete": 25
+          },
+          "changes": [
+            "Generator pad construction started",
+            "Electrical substation expansion",
+            "New transformer delivery observed"
+          ]
+        },
+        {
+          "date": "2024-11-28",
+          "metrics": {
+            "estimated_mw": 63,
+            "building_sqft": 77242,
+            "cooling_towers": 2,
+            "generators": 4,
+            "percent_complete": 50
+          },
+          "changes": [
+            "Cooling tower installation observed",
+            "New building foundation detected"
+          ]
+        },
+        {
+          "date": "2025-02-26",
+          "metrics": {
+            "estimated_mw": 225,
+            "building_sqft": 133448,
+            "cooling_towers": 2,
+            "generators": 6,
+            "percent_complete": 75
+          },
+          "changes": [
+            "Perimeter fencing installed"
+          ]
+        },
+        {
+          "date": "2025-05-27",
+          "metrics": {
+            "estimated_mw": 183,
+            "building_sqft": 478191,
+            "cooling_towers": 5,
+            "generators": 5,
+            "percent_complete": 100
+          },
+          "changes": []
+        }
+      ],
+      "links": {}
+    },
+    {
+      "id": "site_005",
+      "name": "Pinnacle Systems Hillsboro",
+      "project": "Pacific Northwest Campus",
+      "company": "Pinnacle Systems",
+      "location": {
+        "lat": 45.5231,
+        "lng": -122.9898
+      },
+      "address": "7823 Innovation Blvd, Hillsboro, OR",
+      "cadence": "monthly",
+      "status": "under_construction",
+      "esri_layer_id": null,
+      "snapshots": [
+        {
+          "date": "2024-06-01",
+          "metrics": {
+            "estimated_mw": 0,
+            "building_sqft": 0,
+            "cooling_towers": 0,
+            "generators": 2,
+            "percent_complete": 0
+          },
+          "changes": []
+        },
+        {
+          "date": "2024-07-01",
+          "metrics": {
+            "estimated_mw": 15,
+            "building_sqft": 29415,
+            "cooling_towers": 0,
+            "generators": 2,
+            "percent_complete": 11
+          },
+          "changes": [
+            "Generator pad construction started",
+            "Roofing completed on Building A"
+          ]
+        },
+        {
+          "date": "2024-07-31",
+          "metrics": {
+            "estimated_mw": 33,
+            "building_sqft": 70290,
+            "cooling_towers": 2,
+            "generators": 3,
+            "percent_complete": 22
+          },
+          "changes": [
+            "Perimeter fencing installed"
+          ]
+        },
+        {
+          "date": "2024-08-30",
+          "metrics": {
+            "estimated_mw": 25,
+            "building_sqft": 133515,
+            "cooling_towers": 2,
+            "generators": 2,
+            "percent_complete": 33
+          },
+          "changes": []
+        },
+        {
+          "date": "2024-09-29",
+          "metrics": {
+            "estimated_mw": 39,
+            "building_sqft": 127441,
+            "cooling_towers": 1,
+            "generators": 3,
+            "percent_complete": 44
+          },
+          "changes": [
+            "Generator pad construction started",
+            "Cooling tower installation observed",
+            "New building foundation detected"
+          ]
+        },
+        {
+          "date": "2024-10-29",
+          "metrics": {
+            "estimated_mw": 147,
+            "building_sqft": 155737,
+            "cooling_towers": 1,
+            "generators": 4,
+            "percent_complete": 55
+          },
+          "changes": [
+            "Generator pad construction started",
+            "New transformer delivery observed",
+            "Perimeter fencing installed"
+          ]
+        },
+        {
+          "date": "2024-11-28",
+          "metrics": {
+            "estimated_mw": 84,
+            "building_sqft": 138921,
+            "cooling_towers": 2,
+            "generators": 4,
+            "percent_complete": 66
+          },
+          "changes": []
+        },
+        {
+          "date": "2024-12-28",
+          "metrics": {
+            "estimated_mw": 247,
+            "building_sqft": 357888,
+            "cooling_towers": 3,
+            "generators": 4,
+            "percent_complete": 77
+          },
+          "changes": [
+            "Parking lot grading completed",
+            "New building foundation detected",
+            "Cooling tower installation observed"
+          ]
+        },
+        {
+          "date": "2025-01-27",
+          "metrics": {
+            "estimated_mw": 160,
+            "building_sqft": 356338,
+            "cooling_towers": 5,
+            "generators": 5,
+            "percent_complete": 88
+          },
+          "changes": []
+        },
+        {
+          "date": "2025-02-26",
+          "metrics": {
+            "estimated_mw": 75,
+            "building_sqft": 291493,
+            "cooling_towers": 4,
+            "generators": 5,
+            "percent_complete": 100
+          },
+          "changes": []
+        }
+      ],
+      "links": {}
+    }
+  ]
+}

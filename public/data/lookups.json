@@ -1,0 +1,20 @@
+{
+  "companies": [
+    "Apex Cloud Solutions",
+    "Meridian Digital",
+    "NovaTech Industries",
+    "Pinnacle Systems",
+    "Titan Infrastructure"
+  ],
+  "statuses": [
+    "active",
+    "under_construction",
+    "pre_development",
+    "decommissioned"
+  ],
+  "cadences": [
+    "biweekly",
+    "monthly",
+    "quarterly"
+  ]
+}
