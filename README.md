@@ -1,5 +1,7 @@
 # DCII Satellite Explorer
 
+> **Live Demo:** [satellite-explorer-seven.vercel.app](https://satellite-explorer-seven.vercel.app/)
+
 A high-performance geospatial application for visualizing and analyzing data center construction progress through satellite imagery. This tool provides a time-series view of site development, featuring infrastructure overlays and capacity tracking.
 
 **Note:** This repository contains a sanitized version of the application. All proprietary data, internal company references, and actual satellite imagery have been removed and replaced with a synthetic dataset for demonstration purposes.
