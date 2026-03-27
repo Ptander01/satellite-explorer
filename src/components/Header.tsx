@@ -2,7 +2,7 @@ import { Satellite, Settings, HelpCircle, Sun, Moon } from 'lucide-react'
 import { useTheme } from '../context/ThemeContext'
 
 export default function Header() {
-  const { theme, toggleTheme, isDark } = useTheme()
+  const { toggleTheme, isDark } = useTheme()
 
   return (
     <header className={`px-6 py-3 flex items-center justify-between shrink-0 theme-transition ${

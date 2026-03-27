@@ -15,7 +15,7 @@ export default function TimelineSlider() {
   const { isDark } = useTheme()
 
   const [sliderValue, setSliderValue] = useState(100)
-  const playIntervalRef = useRef<NodeJS.Timeout | null>(null)
+  const playIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null)
 
   // Generate sample dates if none available (for demo purposes)
   const dates = availableDates.length > 0 ? availableDates : generateSampleDates()

@@ -1,11 +1,11 @@
 import {
   X, ExternalLink, Zap, Cpu, Building2, Snowflake,
   Flame, Wind, FileText, FileSpreadsheet, Presentation,
-  TrendingUp, AlertCircle, CheckCircle, Clock
+  TrendingUp, AlertCircle, CheckCircle
 } from 'lucide-react'
 import { Site, Snapshot, ChangeDetection, getCompanyColor } from '../types'
 import { useTimeline } from '../context/TimelineContext'
-import { LineChart, Line, XAxis, YAxis, ResponsiveContainer, Tooltip, Area, AreaChart } from 'recharts'
+import { XAxis, YAxis, ResponsiveContainer, Tooltip, Area, AreaChart } from 'recharts'
 
 interface SitePanelProps {
   site: Site
